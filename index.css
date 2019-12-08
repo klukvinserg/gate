@@ -9,11 +9,13 @@
 .gate:hover .gate-left {
     animation: animatiom-left 2s;
     animation-fill-mode: forwards;
+    animation-timing-function: linear;
 }
 
 .gate:hover .gate-right {
     animation: animatiom-right 2s;
     animation-fill-mode: forwards;
+    animation-timing-function: linear;
 }
 
 .gate-left {
